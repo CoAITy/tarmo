@@ -3,13 +3,9 @@
 
   <div class="row text-center text-lg-start">
 
-    <div class="col-lg-4 col-md-6 col-12"><img class="img-fluid img-thumbnail" src="img/14jpg" alt=""></div>
+    <div class="col-lg-4 col-md-6 col-12"><img class="img-fluid img-thumbnail" src="img/14.jpg" alt=""></div>
     <div class="col-lg-4 col-md-6 col-12"><img class="img-fluid img-thumbnail" src="img/6.jpg" alt=""></div>
-    <div class="col-lg-4 col-md-6 col-12"><img class="img-fluid img-thumbnail" src="img/29.jpg" alt=""></div>
-    <div class="col-lg-4 col-md-6 col-12"><img class="img-fluid img-thumbnail" src="img/4.jpg" alt=""></div>
-    <div class="col-lg-4 col-md-6 col-12"><img class="img-fluid img-thumbnail" src="img/5.jpg" alt=""></div>
-    <div class="col-lg-4 col-md-6 col-12"><img class="img-fluid img-thumbnail" src="img/6.jpg" alt=""></div>
-    <div class="col-lg-4 col-md-6 col-12"><img class="img-fluid img-thumbnail" src="img/7.jpg" alt=""></div>
+    <div class="col-lg-4 col-md-6 col-12"><img class="img-fluid img-thumbnail" src="img/28.jpg" alt=""></div>
     <div class="col-lg-4 col-md-6 col-12"><img class="img-fluid img-thumbnail" src="img/8.jpg" alt=""></div>
     <div class="col-lg-4 col-md-6 col-12"><img class="img-fluid img-thumbnail" src="img/9.jpg" alt=""></div>
     <div class="col-lg-4 col-md-6 col-12"><img class="img-fluid img-thumbnail" src="img/10.jpg" alt=""></div>
